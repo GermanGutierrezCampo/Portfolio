@@ -1,8 +1,8 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@ggutierrezcampo",
-  siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteTitle: "Ggutierrezcampo portfolio",
+  siteShortTitle: "GGC", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://ggutierrezcampo.netlify.app/",
